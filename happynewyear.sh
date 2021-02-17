@@ -140,7 +140,7 @@ echo "\e[7;32m░░░██║░░░╚█████╔╝╚████
 echo "\e[7;32m░░░╚═╝░░░░╚════╝░░╚═════╝░\e[0m"
 echo ""
 echo ""
-echo "\e[1;43m HAPPY NEW YEAR GUYS...FROM MUKESH:)\e[0m"| pv -qL 10
+echo "\e[1;43m HAPPY NEW YEAR GUYS.. :)\e[0m"| pv -qL 10
 
 
 
